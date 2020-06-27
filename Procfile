@@ -1,1 +1,1 @@
-web: gunicorn  app:digit_classifier_app
+web:gunicorn app:digit_classifier_app
